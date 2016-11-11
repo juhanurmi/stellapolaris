@@ -25,6 +25,7 @@ sudo nano /etc/tor/torrc
 sudo service tor reload
 ```
 
+```sh
 130.230.113.228 tor1
 130.230.113.229 tor2
 130.230.113.230 tor3
@@ -35,3 +36,4 @@ sudo service tor reload
 130.230.113.235 tor8
 130.230.113.236 tor9
 130.230.113.237 tor10
+```
