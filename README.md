@@ -14,7 +14,7 @@ ContactInfo juha.nurmi(att)tut.fi
 DirPort 9001
 AvoidDiskWrites 1
 MaxMemInQueues 704 MB
-MyFamily stellapolaris
+MyFamily Dubhe,Merak,Phecda,Megrez,Alioth,Mizar,Alkaid,Polaris,Kochab,Pherkad
 Nickname <Dubhe|Merak|Phecda|Megrez|Alioth|Mizar|Alkaid|Polaris|Kochab|Pherkad>
 ```
 
