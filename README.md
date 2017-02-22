@@ -1,4 +1,4 @@
-# Stella Polaris Netwrok
+# Stella Polaris Network
 Stella Polaris - Independent Finnish Tor network
 
 Private Tor test network:
