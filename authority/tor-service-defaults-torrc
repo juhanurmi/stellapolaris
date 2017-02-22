@@ -1,0 +1,10 @@
+TestingTorNetwork 1
+DataDirectory ~/tor-finland/
+ConnLimit 60
+ShutdownWaitLength 0
+PidFile ~/tor-finland/pid
+Log notice file ~/tor-finland/logs/notice.log
+Log info file ~/tor-finland/logs/info.log
+ProtocolWarnings 1
+SafeLogging 0
+DisableDebuggerAttachment 0
