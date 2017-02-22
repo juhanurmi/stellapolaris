@@ -1,4 +1,10 @@
-# stellapolaris
+# Stella Polaris Netwrok
 Stella Polaris - Independent Finnish Tor network
 
-See private_subtor.pdf
+Private Tor test network.
+
+* See ./client/
+
+* See ./relay/
+
+* See private_subtor.pdf

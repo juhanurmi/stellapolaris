@@ -1,0 +1,9 @@
+Nickname Majuri
+
+ORPort 443
+RunAsDaemon 1
+ContactInfo juha.nurmi(att)tut.fi
+DirPort 9001
+AvoidDiskWrites 1
+
+ExitPolicy reject *:*
