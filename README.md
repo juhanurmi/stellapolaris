@@ -3,6 +3,8 @@ Stella Polaris Network - Independent Finnish Tor network
 
 ## Join to the private Tor test network
 
+![Alt text](/images/TheTorBrowser.png?raw=true "The Tor Browser")
+
 ### Connect with the Tor Browser
 
 Add to tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc:
