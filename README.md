@@ -40,3 +40,9 @@ Edit fields YOUR_EMAIL_ADDRESS and SELECT_SERVER_NAME.
 ## Stella Polaris Network consensus:
 
 * http://130.230.113.230:44567/tor/status-vote/current/consensus
+
+## This network is only for Finnish IP range and for testing purposes.
+
+* Finnish IP ranges
+
+* http://www.ipdeny.com/ipblocks/data/countries/fi.zone

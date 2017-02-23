@@ -5,9 +5,6 @@
 # Download a fresh zone file
 wget http://www.ipdeny.com/ipblocks/data/countries/fi.zone
 
-# Drop everything else
-iptables -A INPUT -p tcp --dport 44567 -j DROP
-
 # Allow these ip blocks
 while read ipblock;
 do
@@ -16,3 +13,6 @@ done < fi.zone
 
 # Allow localhost
 iptables -A INPUT -p tcp --dport 44567 -s localhost -j ACCEPT
+
+# Drop everything else
+iptables -A INPUT -p tcp --dport 44567 -j DROP
