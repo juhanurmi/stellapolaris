@@ -1,5 +1,57 @@
 # Stella Polaris Network
-Stella Polaris Network - Independent Finnish Tor network
+
+**Stella Polaris Network: Independent Finnish Tor network**
+
+**Stella Polaris -verkko: Itsenäinen Suomalainen Tor-verkko**
+
+![Alt text](/images/finland_flag.png?raw=true "The Tor Browser")
+
+Stella Polaris -verkko on Suomen sisäinen itsenäinen Tor-verkko,
+joka tarjoaa mahdollisuuden kaivaitua sisämaan puolustusasemiin poikkeustilanteissa.
+
+Tällainen poikkeustilanne voisi olla globaalin internet-reitityksen katko.
+Stella Polaris -verkko tarjoaa tällaisiin hankaliin kriiseihin
+kotimaan vara-asemat internetissä.
+
+Nykyisen globaalin internetin toiminta edellyttää häiriöttömiä yhteyksiä
+Suomesta ulkomaailmaan. Häiriö verkkoliikenteessä ulkomaille
+johtaa keskeisten verkkopalveluiden saatavuuden katkeamiseen:
+yleisimpien uutissivustojen, hakukoneiden, sosiaalisen median ja pankkien
+sekä muiden yritysten verkkopalvelut vaativat toimiakseen häiriöttömiä
+yhteyksiä globaaliin internettiin.
+
+Stella Polaris -verkko on hajautettu vertaisverkko,
+jonka reitittimet ovat Suomessa.
+Teknisesti verkko on oma erillinen Tor-verkkonsa.
+Tällainen verkko tarjoaa tehokasta suojaa esimerkiksi
+kriisitilanteessa ulkomailta tulevaa tiedustelua vastaan.
+Se jatkaa toimintaansa niin kauan kuin
+Suomessa sisäinen internet on edes osittain kunnossa.
+
+Verkko tarjoaa viestinnälle vahvan päästä päähän **salauksen**,
+**palvelunestohyökkäystorjunnan**,
+oman **hajautetun piilopalvelu onion-nimipalvelujärjestelmänsä**,
+sekä **HTTPS-yhteyksiä vahvemmat varmenteet verkkopalveluilleen**.
+
+Näin voidaan tarjota kansalaisille tärkeitä tiedotuskanavia ja viestiyhteyksiä
+salatusti Suomen sisäverkossa tukeutumatta ulkomaailman varassa toimiviin
+internet-palveluihin.
+
+**Stella Polaris -verkko on Suomen sisäinen puolustusverkko:
+se tarjoaa vahvasti salatun, varmennetun, hajautetun,
+hyökkäyksiä kestävän ja itsenäisen järjestelmän
+kotimaan sisäiseen internettiin.**
+
+Verkko on maantieteellisesti hajautettu Suomeen. Se on myös teknisesti
+hajautettu siten, että osaverkkojen ja reitittimien häiriöistä huolimatta
+verkko jatkaa toimintaansa normaalisti. Verkkoon liitetyt uudet reitittimet
+lisäävät kestävyyttä ja kykyä selviytyä, vaikka osa Suomen sisäisestä
+internetistä ja verkkolaitteista kärsisi häiriöistä
+tai joutuisi esimerkiksi tuntemattoman hyökkääjän haltuun.
+
+## This network is only for Finnish IP range and for testing purposes.
+
+* Only for Finnish IP address ranges: you cannot join outside Finland
 
 ## Join to the private Tor test network
 
@@ -24,7 +76,11 @@ DisableDebuggerAttachment 0
 
 ### Add your relay
 
-Edit your /etc/tor/torrc file:
+### Install latest Tor from the repository:
+
+* https://www.torproject.org/docs/debian
+
+### Edit your /etc/tor/torrc file:
 
 ```
 DirAuthority kenraali01 orport=34567 v3ident=4BB29618DA0EFF91301FF8FDE131D1F6EFBE4303 130.230.113.228:44567 3255ADB9F495A837146912479C289526BDEA9263
@@ -54,16 +110,8 @@ Nickname SELECT_SERVER_NAME
 
 Edit fields YOUR_EMAIL_ADDRESS and SELECT_SERVER_NAME.
 
-## Install latest Tor from the repository:
-
-* https://www.torproject.org/docs/debian
-
 ## Stella Polaris Network consensus:
 
 * http://130.230.113.230:44567/tor/status-vote/current/consensus
 
-## This network is only for Finnish IP range and for testing purposes.
-
-* Finnish IP ranges
-
-* http://www.ipdeny.com/ipblocks/data/countries/fi.zone
+![Alt text](/images/be_ready.png?raw=true "The Tor Browser")
