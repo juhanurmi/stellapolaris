@@ -114,6 +114,6 @@ Edit fields YOUR_EMAIL_ADDRESS and SELECT_SERVER_NAME.
 
 ## Stella Polaris Network consensus:
 
-* http://130.230.113.230:44567/tor/status-vote/current/consensus
+* http://130.230.113.228:44567/tor/status-vote/current/consensus
 
 ![Alt text](/images/be_ready.png?raw=true "The Tor Browser")
