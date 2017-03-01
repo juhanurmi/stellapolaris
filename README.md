@@ -2,7 +2,7 @@
 
 **Stella Polaris Network: Independent Finnish Tor network**
 
-**Stella Polaris -verkko: Itsenäinen Suomalainen Tor-verkko**
+**Stella Polaris -verkko: Itsenäinen suomalainen Tor-verkko**
 
 ![Alt text](/images/finland_flag.png?raw=true "The Tor Browser")
 
