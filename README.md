@@ -7,7 +7,7 @@
 ![Alt text](/images/finland_flag.png?raw=true "The Tor Browser")
 
 Stella Polaris -verkko on Suomen sisäinen itsenäinen Tor-verkko,
-joka tarjoaa mahdollisuuden kaivaitua sisämaan puolustusasemiin poikkeustilanteissa.
+joka tarjoaa mahdollisuuden kaivautua sisämaan puolustusasemiin poikkeustilanteissa.
 
 Tällainen poikkeustilanne voisi olla globaalin internet-reitityksen katko.
 Stella Polaris -verkko tarjoaa tällaisiin hankaliin kriiseihin
