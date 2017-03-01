@@ -18,7 +18,7 @@ Suomesta ulkomaailmaan. Häiriö verkkoliikenteessä ulkomaille
 johtaa keskeisten verkkopalveluiden saatavuuden katkeamiseen:
 yleisimpien uutissivustojen, hakukoneiden, sosiaalisen median ja pankkien
 sekä muiden yritysten verkkopalvelut vaativat toimiakseen häiriöttömiä
-yhteyksiä globaaliin internettiin.
+yhteyksiä globaaliin internetiin.
 
 Stella Polaris -verkko on hajautettu vertaisverkko,
 jonka reitittimet ovat Suomessa.
@@ -28,9 +28,9 @@ kriisitilanteessa ulkomailta tulevaa tiedustelua vastaan.
 Se jatkaa toimintaansa niin kauan kuin
 Suomessa sisäinen internet on edes osittain kunnossa.
 
-Verkko tarjoaa viestinnälle vahvan päästä päähän **salauksen**,
+Verkko tarjoaa viestinnälle vahvan **päästä päähän salauksen**,
 **palvelunestohyökkäystorjunnan**,
-oman **hajautetun piilopalvelu onion-nimipalvelujärjestelmänsä**,
+**oman hajautetun onion-piilopalvelunimihakemiston**,
 sekä **HTTPS-yhteyksiä vahvemmat varmenteet verkkopalveluilleen**.
 
 Näin voidaan tarjota kansalaisille tärkeitä tiedotuskanavia ja viestiyhteyksiä
@@ -40,7 +40,7 @@ internet-palveluihin.
 **Stella Polaris -verkko on Suomen sisäinen puolustusverkko:
 se tarjoaa vahvasti salatun, varmennetun, hajautetun,
 hyökkäyksiä kestävän ja itsenäisen järjestelmän
-kotimaan sisäiseen internettiin.**
+kotimaan sisäiseen internetiin.**
 
 Verkko on maantieteellisesti hajautettu Suomeen. Se on myös teknisesti
 hajautettu siten, että osaverkkojen ja reitittimien häiriöistä huolimatta
