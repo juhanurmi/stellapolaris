@@ -2,6 +2,11 @@
 # Purpose: Block all traffic from outside Finland
 # Allow traffic from Finnish ip range
 
+# A good idea to add this script to crontab
+# On 8:05 every Saturday:
+# rm old fi.zone, download a fresh one and execute this script
+# 5 8 * * Sun cd /this/folder && rm fi.zone && bash allow_only_finland.sh
+
 # Download a fresh zone file
 wget http://www.ipdeny.com/ipblocks/data/countries/fi.zone
 
