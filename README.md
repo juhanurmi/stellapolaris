@@ -81,7 +81,7 @@ DisableDebuggerAttachment 0
 
 ### Install latest Tor from the repository:
 
-* https://www.torproject.org/docs/debian
+https://www.torproject.org/docs/debian
 
 ### Edit your /etc/tor/torrc file:
 
@@ -114,8 +114,12 @@ Nickname SELECT_SERVER_NAME
 
 Edit fields YOUR_EMAIL_ADDRESS and SELECT_SERVER_NAME.
 
+## Hakukone
+
+http://r6z2pdgcqxgrnnsa.onion/
+
 ## Stella Polaris Network consensus:
 
-* http://130.230.113.228:44567/tor/status-vote/current/consensus
+http://130.230.113.228:44567/tor/status-vote/current/consensus
 
 ![Alt text](/images/be_ready.png?raw=true "The Tor Browser")
