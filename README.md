@@ -53,6 +53,8 @@ tai joutuisi esimerkiksi tuntemattoman hyökkääjän haltuun.
 
 * Only for Finnish IP address ranges: you cannot join outside Finland
 
+![Alt text](/images/map.png?raw=true "Map of Relays")
+
 ## Join to the private Tor test network
 
 ![Alt text](/images/TheTorBrowser.png?raw=true "The Tor Browser")
